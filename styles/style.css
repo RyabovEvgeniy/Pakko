@@ -1,1 +1,35 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+html {
+  font-size: 10px;
+}
+
+body {
+  color: #100a30;
+  font-size: 16px;
+}
+
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  max-width: 1232px;
+  margin: 0 auto;
+  padding: 0px 15px;
+}
+
+.nav {
+  list-style: none;
+  padding-left: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=style.css.map */
