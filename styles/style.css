@@ -19,7 +19,8 @@ body {
       -ms-flex-align: center;
           align-items: center;
   max-width: 1232px;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-top: -0.1rem;
   padding: 33px 15px;
 }
 
@@ -37,6 +38,7 @@ body {
 
 .nav__item {
   margin-left: 4.4rem;
+  margin-top: -0.1rem;
 }
 
 .nav__item:first-child {
