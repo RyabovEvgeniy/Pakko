@@ -13,8 +13,7 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	max-width: 1232px;
-	margin-left: auto;
-	margin-top: -0.1rem;
+	margin: 0 auto;
 	padding: 33px 15px;
 }
 .nav {
@@ -25,7 +24,6 @@ body {
 	margin: 0;
 	&__item {
 		margin-left: 4.4rem;
-		margin-top: -0.1rem;
 		&:first-child {
 			margin-left: 0;
 		}
