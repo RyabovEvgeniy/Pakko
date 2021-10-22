@@ -76,6 +76,8 @@ a {
   background-color: #100a30;
   color: #ffffff;
   padding-top: 62px;
+  padding-bottom: 757px;
+  position: relative;
 }
 
 .banner__title {
@@ -83,6 +85,14 @@ a {
   max-width: 570px;
   margin: 0 auto 3.1rem;
   font-weight: 400;
+}
+
+.banner__img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -172px;
+  margin: 0 auto;
 }
 
 .banner__text {

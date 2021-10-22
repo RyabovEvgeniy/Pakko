@@ -60,11 +60,20 @@ a {
 	background-color: $dark;
 	color: $white;
 	padding-top: 62px;
+	padding-bottom: 757px;
+	position: relative;
 	&__title {
 		font-size: 5.5rem;
 		max-width: 570px;
 		margin: 0 auto 3.1rem;
 		font-weight: 400;
+	}
+	&__img {
+		position: absolute;
+		left: 0;
+		right: 0;
+		bottom: -172px;
+		margin: 0 auto;
 	}
 	&__text {
 		font-size: 1.6rem;
