@@ -55,6 +55,7 @@ a {
 		border-radius: 0.6rem;
 	}
 }
+// Секция Devis
 .banner {
 	text-align: center;
 	background-color: $dark;
@@ -112,8 +113,7 @@ a {
 		margin: 0 auto;
 	}
 }
-.container {
-}
+// Секция Tarif
 .tarif {
 	display: flex;
 	justify-content: space-between;
@@ -235,4 +235,34 @@ a {
 			left: 0;
 		}
 	}
+}
+
+// Секция Reviews
+.review {
+	display: flex;
+	flex-direction: column;
+}
+.review-item {
+	max-width: 59.6rem;
+	margin-bottom: 4rem;
+	border-radius: 0.8rem 0.8rem;
+}
+.review-item-01 {
+	background-image: url(../images/review-01.svg);
+	border-color: 1px solid #000;
+}
+.review-header {
+}
+.review-info {
+	&__title {
+		font-size: 1.6rem;
+		font-weight: 700;
+	}
+
+	&__subtitle {
+	}
+}
+.review-body {
+}
+.review-footer {
 }
