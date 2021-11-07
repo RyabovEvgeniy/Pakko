@@ -417,6 +417,7 @@ a {
       -ms-flex-direction: column;
           flex-direction: column;
   margin-right: 131.66px;
+  width: 220px;
 }
 
 .footer-item-02 {
@@ -427,6 +428,8 @@ a {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  margin-right: 131.66px;
+  width: 220px;
 }
 
 .footer-item-02 .footer-info {
@@ -442,6 +445,8 @@ a {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  margin-right: 131.66px;
+  width: 220px;
 }
 
 .footer-item-03 .footer-info {
@@ -457,6 +462,7 @@ a {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  margin-right: 131.66px;
 }
 
 .footer-item-04 .footer-info {
