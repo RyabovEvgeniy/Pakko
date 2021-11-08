@@ -12,6 +12,15 @@ a {
   text-decoration: none;
 }
 
+ul {
+  list-style: none;
+  padding: 0px;
+}
+
+li {
+  color: #4C4764;
+}
+
 .header {
   display: -webkit-box;
   display: -ms-flexbox;
